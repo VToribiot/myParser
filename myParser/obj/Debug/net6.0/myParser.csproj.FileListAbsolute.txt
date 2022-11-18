@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.AssemblyInfo.cs
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\myParser\myParser\bin\Debug\net6.0\myParser.exe
+C:\Users\admin\source\repos\myParser\myParser\bin\Debug\net6.0\myParser.deps.json
+C:\Users\admin\source\repos\myParser\myParser\bin\Debug\net6.0\myParser.runtimeconfig.json
+C:\Users\admin\source\repos\myParser\myParser\bin\Debug\net6.0\myParser.dll
+C:\Users\admin\source\repos\myParser\myParser\bin\Debug\net6.0\myParser.pdb
+C:\Users\admin\source\repos\myParser\myParser\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.csproj.CopyComplete
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.dll
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\refint\myParser.dll
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.pdb
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\myParser.genruntimeconfig.cache
+C:\Users\admin\source\repos\myParser\myParser\obj\Debug\net6.0\ref\myParser.dll
